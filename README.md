@@ -1,6 +1,6 @@
 # Obsidian Bible Study Notes
 
-##This project is developed using an isolated Docker sandbox environment utilizing Opencode.ai
+#This project is developed using an isolated Docker sandbox environment utilizing Opencode.ai
 
 NKJV Bible notes in Obsidian-compatible markdown format with Strong's concordances.
 
