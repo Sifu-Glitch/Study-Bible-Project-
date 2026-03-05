@@ -97,6 +97,4 @@ python3 bible_flashcards.py Bible/NKJV --anki -o anki_import
 
 See 1-Peter or Jude for example format.
 
-## Environment Setup
 
-This project is developed using an isolated Docker sandbox environment.
