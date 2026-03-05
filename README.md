@@ -2,6 +2,8 @@
 
 This project is developed using an isolated Docker sandbox environment utilizing Opencode.ai
 
+Every thing you see here is a test created by Ai models.
+
 NKJV Bible notes in Obsidian-compatible markdown format with Strong's concordances.
 
 ## Structure
